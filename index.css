@@ -1,8 +1,8 @@
 @font-face {
   font-family: "odin-font";
   src:
-    url("fonts/norse-bold_2-webfont.woff2"),
-    url("fonts/norse-bold_2-webfont.woff");
+    url("fonts/norse-bold_2-webfont.woff2") format("woff2"),
+    url("fonts/norse-bold_2-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -10,8 +10,8 @@
 @font-face {
   font-family: "form-font";
   src:
-    url("fonts/pressstart2p-regular-webfont.woff2"),
-    url("fonts/pressstart2p-regular-webfont.woff");
+    url("fonts/pressstart2p-regular-webfont.woff2") format("woff2"),
+    url("fonts/pressstart2p-regular-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
