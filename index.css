@@ -29,7 +29,8 @@ body {
 
 .container-left {
   width: 50vw;
-  opacity: 0.5;
+  object-fit: cover;
+  
 }
 
 
